@@ -2,7 +2,7 @@
 
 ```swift
 
-enum ProgrammingLanguage: Int {
+enum ProgrammingLanguage {
   case swift
   case objectiveC
   case python
